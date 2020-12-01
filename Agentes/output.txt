@@ -1,0 +1,80 @@
+Scenary #1:
+Model A win amount: 23
+Model A lose amount: 7
+Model A dirtyness mean: 0.14259259259259263
+Model B win amount: 22
+Model B lose amount: 8
+Model B dirtyness mean: 0.16481481481481483
+
+Scenary #2:
+Model A win amount: 30
+Model A lose amount: 0
+Model A dirtyness mean: 0.0
+Model B win amount: 30
+Model B lose amount: 0
+Model B dirtyness mean: 0.0
+
+Scenary #3:
+Model A win amount: 20
+Model A lose amount: 10
+Model A dirtyness mean: 0.20489965986394557
+Model B win amount: 21
+Model B lose amount: 9
+Model B dirtyness mean: 0.184521399964598
+
+Scenary #4:
+Model A win amount: 30
+Model A lose amount: 0
+Model A dirtyness mean: 0.0
+Model B win amount: 29
+Model B lose amount: 1
+Model B dirtyness mean: 0.02007168458781362
+
+Scenary #5:
+Model A win amount: 14
+Model A lose amount: 16
+Model A dirtyness mean: 0.32748896104214065
+Model B win amount: 12
+Model B lose amount: 18
+Model B dirtyness mean: 0.36852675860872586
+
+Scenary #6:
+Model A win amount: 30
+Model A lose amount: 0
+Model A dirtyness mean: 0.0
+Model B win amount: 30
+Model B lose amount: 0
+Model B dirtyness mean: 0.0
+
+Scenary #7:
+Model A win amount: 30
+Model A lose amount: 0
+Model A dirtyness mean: 0.0
+Model B win amount: 30
+Model B lose amount: 0
+Model B dirtyness mean: 0.0
+
+Scenary #8:
+Model A win amount: 29
+Model A lose amount: 1
+Model A dirtyness mean: 0.020133333333333333
+Model B win amount: 29
+Model B lose amount: 1
+Model B dirtyness mean: 0.020080321285140566
+
+Scenary #9:
+Model A win amount: 0
+Model A lose amount: 30
+Model A dirtyness mean: 0.657843137254902
+Model B win amount: 0
+Model B lose amount: 30
+Model B dirtyness mean: 0.6571428571428571
+
+Scenary #10:
+Model A win amount: 0
+Model A lose amount: 30
+Model A dirtyness mean: 0.6634046890927625
+Model B win amount: 0
+Model B lose amount: 30
+Model B dirtyness mean: 0.662079510703364
+
